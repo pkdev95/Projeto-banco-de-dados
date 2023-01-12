@@ -21,5 +21,5 @@ R: os campos principais são as chaves primárias, representadas por um id ou um
  
  Como essas entidades estão relacionadas?
  
- Relacionamento Um-Para-Um (1:1)
+ R: Relacionamento Um-Para-Um (1:1)
  
