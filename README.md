@@ -16,3 +16,9 @@ R: sim, adicionei professores e área de formação, mas também teria espaço p
 
 Quais são os principais campos e tipos?
 
+R: os campos principais são as chaves primárias, representadas por um id ou um elemento único para cada entrada na tabela ou seja identificadores. 
+ os pricipais tipos utilizados foram alfanuméricos(varchar), inteiro(int).
+ 
+ Como essas entidades estão relacionadas?
+ 
+ 
