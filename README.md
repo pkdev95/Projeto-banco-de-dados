@@ -12,7 +12,7 @@ e responder algumas perguntas com nosso modelo:
 
 Existem outras entidades além dessas três?
 
-sim, adicionei professores e área de formação, mas também teria espaço para a coordenação e gestores.
+R: sim, adicionei professores e área de formação, mas também teria espaço para a coordenação e gestores.
 
 Quais são os principais campos e tipos?
 
